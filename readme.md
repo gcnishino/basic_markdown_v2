@@ -1,13 +1,5 @@
-- item1
-- item2
-- item3
+<http://dotinstall.com>
 
-    hello. hello. hello. hello.
-    hello. hello. hello. hello.
-    hello. hello. hello. hello.
+[dotinstall](http://dotinstall.com)
 
----
-
-- item1
-+ item2
-* item3
+[dotinstall](http://dotinstall.com "this is dotinstall")

@@ -1,5 +1,5 @@
-<http://dotinstall.com>
+![logo image](http://dotinstall.com/img/logo_200x200.png)
 
-[dotinstall](http://dotinstall.com)
+![logo image](http://dotinstall.com/img/logo_200x200.png "dotinstall!")
 
-[dotinstall](http://dotinstall.com "this is dotinstall")
+[![logo image](http://dotinstall.com/img/logo_200x200.png "dotinstall!")](http://dotinstall.com)
